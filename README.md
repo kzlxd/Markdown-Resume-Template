@@ -4,59 +4,46 @@
 
 ## 个人信息
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：28
+* 手 机：18983974021 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：1256374931@qq.com
+* 专 业：控制科学与工程 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
 
 ## 工作及教育经历
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科
+* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2021.7~至今&emsp;&emsp;&emsp;&emsp;&emsp; 华为-数据存储产品线
+* 重庆邮电大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 控制科学与工程-研究生
+* 重庆邮电大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 物联网工程-本科
 
 ## 专业技能
 
-* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
+* 熟练使用 C++，掌握c、java，了解 Python 等编程语言
 * 掌握基础数据结构和算法的基本原理
-* 等等
+* 数据中心网络、机器学习算法等
 
 ## 项目经历
 
-1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512
+1. 公司 - XXweb服务器 - 独立开发 - 201508- 201512
     * 具体功能
     * 运用了那些技术，技术难点是
     * 效果如何
-    * demo演示地址，github地址
+    * 
+1. 公司 - XXweb服务器 - 独立开发 - 201508- 201512
+    * 具体功能
+    * 运用了那些技术，技术难点是
+    * 效果如何
 
-2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401
+2. 学校 - XX游戏 - 负责后端开发 - 201309- 201401
     * 具体功能
     * 运用了那些技术，技术难点是
     * 效果如何
     * demo演示地址，github地址
 
 ## 获奖经历
-* XXX 优秀新人
-* XXX 学生社团优秀干部
-* 竞赛 XXX 奖
-
-## 个人账号
-* blog 地址 (附加自己博客特色，写了哪些技术文章)
-* github 地址 (附加自己github特色，突出的项目)
+*智源：INSPEC 工业大数据质量预测赛 (rank2/724) *2020数字中国创新大赛—算法赛：智慧海洋建设第一赛季（rank6/3275）
+*2019 ccf 离散制造过程中典型工件质量预测（rank15/2264）*“华为杯”第十六届中国研究生数学建模竞赛二等
+*2019 年全国高校计算机能力挑战赛大数据算法赛 一等（rank4/426）*第二届“泰迪杯”数据分析职业技能大赛 三等
+*2019 讯飞工程机械核心部件寿命预测挑战赛（rank29/1245） 2*019 第五届“好贷杯”中国高校风险控制与管理能力挑战赛一等
 
 ## 其他信息
-* 喜欢钻研技术 等等
-* 性格开朗，喜欢跳舞，做个主持人 等等
-
-## Word版领取方式
-
-**Word版本的简历，添加代码随想录企业微信，通过之后就会发你word版本**。
-
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20240328164645.png" data-img="1" width="200" height="200"></img></div>
-
-如果已经有代码随想录企业微信，直接回复：简历模板，就可以了。
-
-## 总结
-
-**好的简历是敲门砖，同时也不要在简历上花费过多的精力，好的简历以及面试技巧都是锦上添花**，真的求得心得的offer靠的还是真才实学。
-
-
+* 喜欢钻研技术
+* 性格开朗
